@@ -44,15 +44,3 @@ Vas a trabajar en los siguientes archivos (Cada archivo tiene su archivo de test
 8. components/CharacterCard/CharacterCard.jsx
 9. components/CreateHouse/CreateHouse.jsx
 
-Vas a tener que ir leyendo **cada archivo de test por componente** y la descripción de cada uno para ir avanzando.
-
->Los tests se encuentran comentados. Para poder correrlos tendras que cambiar el `xdescribe` de cada archivo .test.js por `describe`.
-
->Lee bien los tests y lo que piden, sobre todo los detalles.
-
-
->Esta aplicacion esta pensada para que pasen los tests, y que tenga la funcionalidad que buscamos, NO tiene estilos por lo que los componentes se veran muy precarios. Luego de rendir, los animo a que le den los estilos que gusten!
-
->Debes completar 44 de los 55 tests que se encuentran en el CP
-
-TODO EL ÉXITO GENTE, VAMOS QUE LA ROMPEN!!
