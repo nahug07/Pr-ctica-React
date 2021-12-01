@@ -1,7 +1,3 @@
-# Henry
-
-## M2 - Checkpoint
-
 ## Aclaraciones IMPORTANTES
 
 * Se va a implementar el uso de un Back-end creado con json-server. Seguir los pasos luego de estas aclaraciónes, de lo contrario algunos de los tests van a arrojar errores al correrlos!
